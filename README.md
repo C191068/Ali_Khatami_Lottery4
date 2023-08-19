@@ -54,6 +54,9 @@ To get the address of the winner we write the above code <br>
 Thus we can get address of the person thats gonna be verifiably random winner <br>
 
 
+Now we gonna create a state variable for our recent winner <br>
+
+
 
 
 
