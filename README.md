@@ -54,7 +54,10 @@ To get the address of the winner we write the above code <br>
 Thus we can get address of the person thats gonna be verifiably random winner <br>
 
 
-Now we gonna create a state variable for our recent winner <br>
+
+![c43](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/305e1557-55f7-4711-814a-a0fe67aaaeb2)
+
+Now we gonna create a state variable for our recent Champion <br>
 
 
 
