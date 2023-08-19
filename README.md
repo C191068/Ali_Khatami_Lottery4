@@ -46,6 +46,10 @@ In code we use it in the above way where index is zero because we will generate 
 
 ```uint256 indexofChampion``` will give us the index of our random winner <br>
 
+![c42](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/8093814f-2f21-4567-ba96-c3b78b7920aa)
+
+
+To get the address of the winner we write the above code <br>
 
 
 
