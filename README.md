@@ -64,8 +64,9 @@ Now we gonna create a state variable for our recent Champion at first it will st
 
 It will get updated as we use the above keyword <br>
 
+![c45](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/e6ffa457-d0ad-4418-958e-d217017bef59)
 
-we want people to know who the recent winner is <br>
+we want people to know who the recent winner is and thus we use the above code  <br>
 
 
 
