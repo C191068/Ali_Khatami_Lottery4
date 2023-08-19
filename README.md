@@ -232,6 +232,16 @@ So we gonnna create a new event in the event section <br>
 here we emit an event <br>
 
 
+![c51](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/9c124cd7-7940-42f0-8fbb-1e37e5aa1b32)
+
+here the above yellow marked parameter is giving the below white marked error <br>
+
+![c52](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/ad0e0203-55fd-411e-81fd-1869e767b99f)
+
+To solve it we do the above <br>
+
+
+
 
 
 
