@@ -44,6 +44,10 @@ here we gonna get result from 0 to 9 which works out perfectly because those are
 
 In code we use it in the above way where index is zero because we will generate here one random number <br>
 
+```uint256 indexofChampion``` will give us the index of our random winner <br>
+
+
+
 
 
 
