@@ -51,6 +51,8 @@ In code we use it in the above way where index is zero because we will generate 
 
 To get the address of the winner we write the above code <br>
 
+Thus we can get address of the person thats gonna be verifiably random winner <br>
+
 
 
 
