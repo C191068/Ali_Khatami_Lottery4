@@ -82,8 +82,10 @@ For that we use the line of code <br>
 
 To revert error message we use the above line of code <br>
 
+![c48](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/2cba834b-0179-4dd2-9f96-f6a1dbe1bd14)
 
 
+Then we use the above line of code <br>
 
 
 
