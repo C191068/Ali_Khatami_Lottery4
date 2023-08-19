@@ -2,4 +2,6 @@
 
 ### Implementing the Chainlink VRF(The Fulfill)
 
+### Modulo
+
 
