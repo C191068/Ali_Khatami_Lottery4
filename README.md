@@ -24,7 +24,7 @@ since we are requesting one random word this random words array can be of size 1
 
 we can learn about modulo function by going to this link https://docs.soliditylang.org/en/v0.8.17/types.html
 
-we use module function to get random number out of our player array <br>
+we use module function to pick a random number out of our player array <br>
 
 
 
