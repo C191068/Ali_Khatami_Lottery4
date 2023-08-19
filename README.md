@@ -240,6 +240,9 @@ here the above yellow marked parameter is giving the below white marked error <b
 
 To solve it we do the above <br>
 
+This tells our function, yes we know that you need uint256 but we not gonna use ```requestId``` <br>
+
+
 
 
 
