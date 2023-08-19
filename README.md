@@ -245,6 +245,9 @@ This tells our function, yes we know that you need uint256 but we not gonna use 
 ![c53](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/81150a2e-be85-4ab9-b10e-dbcc8f5b56a4)
 sow hen we compile our code it is compiled successfully <br>
 
+thus we can get a verifiably random winner <br>
+
+
 
 
 
