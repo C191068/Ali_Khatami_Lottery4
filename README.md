@@ -72,7 +72,9 @@ s_recentChampion; gonna be storage variable <br>
 
 Since we got our recent winner we now gonna send them money in this contract <br>
 
+![c46](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/473a2b50-537e-4599-ade0-02c8f3c5b3da)
 
+For that we use the line of code <br>
 
 
 
