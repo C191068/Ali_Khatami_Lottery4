@@ -37,6 +37,8 @@ So how do we pick a random person out of this player array <br>
  for that we will do 202 mod 10 = 2
 
 
+here we gonna get result from 0 to 9 which works out perfectly because those are indexes of 10 people <br>
+
 
 
 
