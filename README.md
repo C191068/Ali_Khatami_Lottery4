@@ -27,4 +27,37 @@ we can learn about modulo function by going to this link https://docs.solidityla
 we use module function to pick a random number out of our player array <br>
 
 
+Let our palyer array size is 10 and random number is 202 <br>
+
+So how do we pick a random person out of this player array <br>
+
+
+![c40](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/952615d8-029c-4421-baca-42261d14ea32)
+
+ for that we will do 202 mod 10 = 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
