@@ -87,9 +87,6 @@ To revert error message we use the above line of code <br>
 
 Then we use the above line of code <br>
 
-Now we don't have a way to keep track of the list of previous winners <br>
-
-So we gonna emit an event <br>
 
 
 ```
@@ -213,6 +210,20 @@ contract akrkLottery is VRFConsumerBaseV2 {
 }
 
 ```
+
+
+Now we don't have a way to keep track of the list of previous winners <br>
+
+So we gonna emit an event <br>
+
+
+
+so there is gonna be easily query able history of event winners <br>
+
+
+
+
+So we gonnna create a new event in the event section <br>
 
 
 
