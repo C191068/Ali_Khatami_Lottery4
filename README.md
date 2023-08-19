@@ -57,7 +57,13 @@ Thus we can get address of the person thats gonna be verifiably random winner <b
 
 ![c43](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/305e1557-55f7-4711-814a-a0fe67aaaeb2)
 
-Now we gonna create a state variable for our recent Champion <br>
+Now we gonna create a state variable for our recent Champion at first it will start of nobody  <br>
+
+![c44](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/d374e053-f79a-4f66-95f9-e5b613f05797)
+
+
+It will get updated as we use the above keyword <br>
+
 
 
 
