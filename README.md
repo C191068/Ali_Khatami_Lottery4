@@ -19,6 +19,9 @@ We gonna get array back of random numbers if we will <br>
 
 since we are requesting one random word this random words array can be of size 1 <br>
 
+![c39](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/1657a2ff-1db9-41ef-b682-d7b1e4e17743)
 
+
+we can learn about modulo function by going to this link https://docs.soliditylang.org/en/v0.8.17/types.html
 
 
