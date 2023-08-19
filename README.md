@@ -77,7 +77,10 @@ Since we got our recent winner we now gonna send them money in this contract <br
 For that we use the line of code <br>
 
 
+![c47](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/2bdd3e47-77ea-4b43-ab58-65f537c702ab)
 
+
+To revert error message we use the above line of code <br>
 
 
 
