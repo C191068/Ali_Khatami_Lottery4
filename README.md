@@ -40,6 +40,10 @@ So how do we pick a random person out of this player array <br>
 here we gonna get result from 0 to 9 which works out perfectly because those are indexes of 10 people <br>
 
 
+![c41](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/a446c09b-3f85-4786-9518-4581c8790abc)
+
+In code we use it in the above way where index is zero because we will generate here one random number <br>
+
 
 
 
