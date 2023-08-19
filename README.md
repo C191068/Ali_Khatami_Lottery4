@@ -70,6 +70,8 @@ we want people to know who the recent winner is and thus we use the above code  
 
 s_recentChampion; gonna be storage variable <br>
 
+Since we got our recent winner we now gonna send them money in this contract <br>
+
 
 
 
