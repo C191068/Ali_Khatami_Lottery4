@@ -68,6 +68,8 @@ It will get updated as we use the above keyword <br>
 
 we want people to know who the recent winner is and thus we use the above code  <br>
 
+s_recentChampion; gonna be storage variable <br>
+
 
 
 
