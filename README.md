@@ -227,6 +227,10 @@ so there is gonna be easily query able history of event winners <br>
 So we gonnna create a new event in the event section <br>
 
 
+![c50](https://github.com/C191068/Ali_Khatami_Lottery4/assets/89090776/eb741907-e972-4d49-8476-3af6cb9f3012)
+
+here we emit an event <br>
+
 
 
 
