@@ -65,6 +65,8 @@ Now we gonna create a state variable for our recent Champion at first it will st
 It will get updated as we use the above keyword <br>
 
 
+we want people to know who the recent winner is <br>
+
 
 
 
